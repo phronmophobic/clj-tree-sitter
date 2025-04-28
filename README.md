@@ -1,5 +1,7 @@
 # clj-tree-sitter
-WIP clojure bindings for tree-sitter
+WIP clojure bindings for tree-sitter.
+
+Update: This project has been abandoned. Just use https://github.com/bonede/tree-sitter-ng via java interop.
 
 ## License
 
